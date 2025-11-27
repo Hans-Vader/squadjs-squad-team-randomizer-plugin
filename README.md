@@ -1,0 +1,1 @@
+# squadjs-squad-team-randomizer-plugin
