@@ -1,5 +1,7 @@
 # Squad Team Randomizer Plugin
 
+# WIP
+
 ## Overview
 - Randomizes both teams while ensuring squad members stay together.
 - Triggered via the in-game admin chat command `!squadrandomize`.
